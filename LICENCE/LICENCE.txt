@@ -1,0 +1,8 @@
+Educational Use License
+
+This project is provided solely for educational and academic purposes.
+Use, distribution, and modification are permitted only within educational institutions or by individuals for learning and non-commercial purposes.
+
+Copyright (c) 2025 Enache ALEXIA-IOANA
+
+Unauthorized commercial use is strictly prohibited.
