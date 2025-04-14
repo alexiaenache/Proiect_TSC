@@ -102,3 +102,7 @@ Sistemul reprezintă un cititor digital inteligent, construit în jurul microcon
 - Expunere pentru debug, programare și validare semnale: 3V3, GND, RX, TX, SPI.
 
 ---
+## 📐 Diagrama bloc
+
+![Diagrama Bloc](https://github.com/alexiaenache/Proiect_TSC/blob/main/diagrama.png?raw=true)
+
